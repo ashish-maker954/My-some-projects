@@ -143,14 +143,12 @@ if __name__ == "__main__":
             speak("hello Mrs.vijaylakshami  i know you are mother of Ashish sir and you are so good in world")
 
         elif 'uncle' in query:
-            speak("hello mr.ravi prakash i know you are the uncle of Ashish congratulation for buying new car and i know you are the best buissnessman of galaxy industries")
+            speak("hello mr.ravi prakash i know you are the uncle of Ashish")
 
         elif 'who are you' in query:
           speak("i am jarvis the ai of ashish he design me")
        
-        elif 'something about bad' in query:
-         speak("kushagra is very bad and never able to pass iit")
-
+       
         
 
 
