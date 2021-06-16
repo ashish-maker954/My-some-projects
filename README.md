@@ -1,2 +1,2 @@
 # My-some-projects
-Hi se my project and tell me how should i modify it
+Hi see my project and tell me how should i modify it
